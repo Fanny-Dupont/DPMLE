@@ -46,5 +46,5 @@ To get started with the tutorial, follow these steps:
 - Necessary R packages (listed in the `Tutorial.Rmd` file)
 
 ## Contact
-For any questions or issues, please contact [Fanny Dupont] at [fanny.dupont@stat.ubc.ca].
+For any questions or issues, please contact Fanny Dupont at fanny.dupont@stat.ubc.ca.
 
