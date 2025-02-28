@@ -14,5 +14,7 @@ In the Simulation.R script, we provide functions to simulate data from various m
 
 The [tutorial file](Code_DPMLE_MEE/Tutorial) provides .pdf and .rmd files on how to use the DPMLE, both stationary and non-stationary, on clipped narwhal data with a single track. 
 
+The Narwhal1h2monthdts.RData file contains the tracking data used in the paper. Raw data was preprocessed to obtain one location per hour from August to late September 2017.
+
 
 
