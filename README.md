@@ -1,7 +1,7 @@
 # Improved order selection method for hidden Markov models
 
 
-Repository for code from the paper: Improved order selection method for hidden Markov models: a case study with movement data.
+Repository for code from the paper: "Improved order selection method for hidden Markov models: a case study with movement data".
 
 The link to the paper is available [here](https://arxiv.org/abs/2411.18826).
 
