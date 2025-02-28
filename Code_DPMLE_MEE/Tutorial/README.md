@@ -28,7 +28,7 @@ This repository contains a tutorial for analyzing narwhal movement data using bo
 5. Interpret the model output and extract estimates.
 6. Check model fit.
 7. Compare both models, select the best performing one.
-8. (Bonus) Select the best tuning parameters (explore 10) with BIC$_{\text{DPMLE}}$ for stationary DPMLE.
+8. (Bonus) Select the best tuning parameters (explore 10) with BIC\(_{\text{DPMLE}}\) for stationary DPMLE.
 
 ## Getting Started
 
