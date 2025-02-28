@@ -14,7 +14,7 @@ This repository contains a tutorial for analyzing narwhal movement data using bo
   - This is the compiled PDF version of the `Tutorial.Rmd` file. It presents the tutorial in a readable format, suitable for distribution or reference.
 
 - **sourcefunctions.R**:
-  - This file contains the source functions required for the tutorial. These functions are used in the `Tutorial.Rmd` file to perform various analyses and model fitting tasks. It contains all the functions required to fit the EM algorithm (e.g., forward algorithm, (I) and (II) in eq (14) of the paper).
+  - This file contains the source functions required for the tutorial. These functions are used in the `Tutorial.Rmd` file to perform various analyses and model fitting tasks. It contains all the functions required to fit the EM algorithm for gamma and von Mises state-dependent distributions (e.g., forward algorithm, (I) and (II) in eq (14) of the paper).
 
 - **tutorial_source.R**:
   - This file includes additional source codes that support the tutorial. It contains the EM algorithm to fit both DPMLE methods with gamma and von mises state-dependent distributions. It can be easily adapted to any other state-dependent distributions.
