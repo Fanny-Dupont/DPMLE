@@ -17,7 +17,7 @@ This repository contains a tutorial for analyzing narwhal movement data using bo
   - This file contains the source functions required for the tutorial. These functions are used in the `Tutorial.Rmd` file to perform various analyses and model fitting tasks. It contains all the functions required to fit the EM algorithm (e.g., forward algorithm, (I) and (II) in eq (14) of the paper).
 
 - **tutorial_source.R**:
-  - This file includes additional source code that support the tutorial. It contains the EM algorithm to fit both DPMLE methods.
+  - This file includes additional source codes that support the tutorial. It contains the EM algorithm to fit both DPMLE methods.
 
 ## Tutorial Learning Objectives
 
